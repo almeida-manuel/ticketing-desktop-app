@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+
 # 🎟️ Ticket Sales Management System
 
 A lightweight and efficient desktop application designed to manage ticket sales, track daily revenue, and generate reports.
