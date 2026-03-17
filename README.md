@@ -29,16 +29,6 @@ This application was built to simplify ticket sales operations, providing an int
 
 ![Main UI](assets/main_ui.png)
 
-### Sales Panel
-
-![Sales](assets/sales.png)
-
-### Reports
-
-![Reports](assets/reports.png)
-
----
-
 ## 🛠️ Tech Stack
 
 * Python
